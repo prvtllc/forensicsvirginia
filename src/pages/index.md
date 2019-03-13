@@ -27,7 +27,7 @@ intro:
     - image: /img/image4.jpg
       text: >
         A Virginia computer forensics expert can also assist individuals accused of a Virginia computer crime.  Whether the individual is accused of hacking, computer trespass, computer fraud, use of a computer to solicit a police officer posing as a minor, or the alleged possession of illegal pornography, our expertise can be critical in formulating a competent strategy.  We can assist your attorney in understanding the many issues where digital evidence will come into play.  Recognizing problems in the government's case may be the difference in determining whether an innocent individual will go to prison or not.  It can also be the difference in determining whether a guilty individual will be offered a fair resolution or a life sentence.  The digital evidence analysis skills of a Virginia computer forensics expert are therefore critical.  Our expertise extends to mobile digital devices.
-  - image: /img/coffee.jpg
+    - image: /img/image4.jpg
       text: >
         We may assist businesses, law firms, agencies, and individuals in all aspects of the collection, forensic analysis, forensic examination, preservation, and presentation of digital evidence.  From the initial acquisition to the presentation phase, we can provide expert Virginia computer forensics.
 ---
