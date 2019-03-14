@@ -26,7 +26,7 @@ export default class BlogIndexPage extends React.Component {
                     padding: '1rem',
                   }}
                 >
-                  Defamation Laws By State
+                  Virginia Computer Forensics By Location
                 </h1>
               </div>
             </div>

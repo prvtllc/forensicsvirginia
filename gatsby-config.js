@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Internet Defamation Law',
+    title: 'Virginia Digital Forensics Expert',
     description:
-      'This website is a resource for defamation laws in the United States, including the defamation laws of each individual State.  Courts apply Internet defamation laws to cases involving cyber defamation.',
+      'AVM Technology provides cyber forensics services throughout Virginia and assists attorneys with evidence analysis and trial testimony.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

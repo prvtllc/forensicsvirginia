@@ -8,4 +8,4 @@ import IndexPagePreview from './preview-templates/IndexPagePreview'
 CMS.registerPreviewTemplate('index', IndexPagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
 CMS.registerPreviewTemplate('resources', ProductPagePreview)
-CMS.registerPreviewTemplate('laws', BlogPostPreview)
+CMS.registerPreviewTemplate('location', BlogPostPreview)

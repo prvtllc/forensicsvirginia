@@ -34,8 +34,8 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                   <li>
-                    <Link className="navbar-item" to="/laws">
-                      Defamation Laws By State
+                    <Link className="navbar-item" to="/location">
+                      Virginia Cyber Forensics By Location
                     </Link>
                   </li>
                   </ul>
