@@ -6,18 +6,19 @@ heading: Virginia Digital Forensics Experts and Attorneys
 subheading: Digital Forensics Investigator in Virginia, and Experienced Computer Trial Expert Witness
 description: >-
   Based on our research, Domingo J. Rivera the only digital forensics expert in Virginia who is also admitted to the Virginia State Bar and who has tried jury trials and been admitted as an expert witness in the Virginia State and Federal Courts.   
+  
+  Expert witnesses with law degrees and trial experience that understand the challenges that counsel faces when evaluating and introducing digital evidence at trial, no-nonsense straight forward practical digital evidence advice presence throughout Virginia with experts in Northern Virginia, Richmond, and Virginia Beach.  
+      
+  The ability to understand and see law as only an attorney can while understanding computer forensics and technical issues and presenting them to a judge or jury in plain English is essential to have the best possible outcome in civil or criminal cases.  Parties and attorneys are best served by having a computer forensics expert with this critical and scarce skill.        
+
+  Hampton Roads - 20th Street, Virginia Beach VA 23451 
+  Richmond - 11357 Nuckols Rd  Ste. 1034, Glen Allen, VA 23059 
+  Throughout Virginia call us at (804) 332-5752
 mainpitch:
   title: Virginia's leading computer forensics and digital evidence trial consultants
   description: >
-      We are Virginia's leading computer forensics and digital evidence trial consultants with 20+ years experience in cyber forensics, qualified expert witness at all levels of the Virginia Courts (General District, Circuit Court and Federal Courts) <br>
-      
-      Expert witnesses with law degrees and trial experience that understand the challenges that counsel faces when evaluating and introducing digital evidence at trial, no-nonsense straight forward practical digital evidence advice presence throughout Virginia with experts in Northern Virginia, Richmond, and Virginia Beach.  
-      
-      The ability to understand and see law as only an attorney can while understanding computer forensics and technical issues and presenting them to a judge or jury in plain English is essential to have the best possible outcome in civil or criminal cases.  Parties and attorneys are best served by having a computer forensics expert with this critical and scarce skill.        
+      We are Virginia's leading computer forensics and digital evidence trial consultants with 20+ years experience in cyber forensics, qualified expert witness at all levels of the Virginia Courts (General District, Circuit Court and Federal Courts). Expert witnesses with law degrees and trial experience that understand the challenges that counsel faces when evaluating and introducing digital evidence at trial. 
 
-      Hampton Roads - 20th Street, Virginia Beach VA 23451 
-      Richmond - 11357 Nuckols Rd  Ste. 1034, Glen Allen, VA 23059 
-      Throughout Virginia call us at (804) 332-5752
 intro:
   blurbs:
     - image: /img/forensics.jpg
