@@ -6,6 +6,7 @@ import ProductPagePreview from './preview-templates/ProductPagePreview'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
 
 CMS.registerPreviewTemplate('index', IndexPagePreview)
-CMS.registerPreviewTemplate('about', AboutPagePreview)
+CMS.registerPreviewTemplate('contact-us', AboutPagePreview)
 CMS.registerPreviewTemplate('resources', ProductPagePreview)
 CMS.registerPreviewTemplate('location', BlogPostPreview)
+CMS.registerPreviewTemplate('services', AboutPostPreview)
