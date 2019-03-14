@@ -42,9 +42,9 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/defamation-resources/index.md"
-        label: "Defamation Resources"
-        name: "defamation-resources"
+      - file: "src/pages/services/index.md"
+        label: "Virginia Computer Forensics Services"
+        name: "services"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}

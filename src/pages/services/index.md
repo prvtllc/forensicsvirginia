@@ -1,6 +1,6 @@
 ---
 templateKey: 'about-page'
-path: /defamation-resources
+path: /services
 title: Computer Forensics Services
 ---
 #### Computer Forensics Services

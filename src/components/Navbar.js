@@ -54,8 +54,8 @@ const Navbar = class extends React.Component {
             <Link className="navbar-item" to="/location">
                 Virginia Computer Forensics By Location 
               </Link>
-              <Link className="navbar-item" to="/defamation-resources">
-                Defamation Resources
+              <Link className="navbar-item" to="/services">
+                Services
               </Link>
               <Link className="navbar-item" to="/about">
                 About
@@ -64,7 +64,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://www.defamationlaw.tech"
+                href="https://www.avmforensics.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
