@@ -1,15 +1,13 @@
 ---
 templateKey: 'index-page'
 title: 'Virginia Computer Forensics Expert'
-image: /img/defamationlawtechavm.jpg
+image: /img/avm-keyboard-key1.jpg
 heading: Virginia Digital Forensics Experts and Attorneys
 subheading: Digital Forensics Investigator in Virginia, and Experienced Computer Trial Expert Witness
 description: >-
   Based on our research, Domingo J. Rivera the only digital forensics expert in Virginia who is also admitted to the Virginia State Bar and who has tried jury trials and been admitted as an expert witness in the Virginia State and Federal Courts.   
-  
-  Expert witnesses with law degrees and trial experience that understand the challenges that counsel faces when evaluating and introducing digital evidence at trial, no-nonsense straight forward practical digital evidence advice presence throughout Virginia with experts in Northern Virginia, Richmond, and Virginia Beach.  
       
-  The ability to understand and see law as only an attorney can while understanding computer forensics and technical issues and presenting them to a judge or jury in plain English is essential to have the best possible outcome in civil or criminal cases.  Parties and attorneys are best served by having a computer forensics expert with this critical and scarce skill.        
+  The ability to understand and see law as only an attorney can while understanding computer forensics and technical issues and presenting them to a judge or jury in plain English is essential to have the best possible outcome in civil or criminal cases.         
 
   Call us at (804) 332-5752
 mainpitch:
