@@ -9,10 +9,10 @@ description: >-
 mainpitch:
   title: Virginia's leading computer forensics and digital evidence trial consultants
   description: >
-      We are Virginia's leading computer forensics and digital evidence trial consultants. 
-      - Based on our research, Domingo J. Rivera the only digital forensics expert in Virginia who is also admitted to the Virginia State Bar and who has tried jury trials and been admitted as an expert witness in the Virginia State and Federal Courts.  
-      - 20+ years experience in cyber forensics
-      - qualified expert witness at all levels of the Virginia Courts (General District, Circuit Court and Federal Courts) 
+      We are Virginia's leading computer forensics and digital evidence trial consultants. Based on our research, Domingo J. Rivera the only digital forensics expert in Virginia who is also admitted to the Virginia State Bar and who has tried jury trials and been admitted as an expert witness in the Virginia State and Federal Courts.  
+
+      *20+ years experience in cyber forensics
+      *qualified expert witness at all levels of the Virginia Courts (General District, Circuit Court and Federal Courts) 
       - expert witnesses with law degrees and trial experience that understand the challenges that counsel faces when evaluating and introducing digital evidence at trial
       - no-nonsense straight forward practical digital evidence advice 
       - presence throughout Virginia with experts in Northern Virginia, Richmond, and Virginia Beach.  
