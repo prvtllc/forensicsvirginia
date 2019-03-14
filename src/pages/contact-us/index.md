@@ -14,3 +14,20 @@ title: Contact Us
 
 ## Phone Number - For All Virginia
 (804) 332-5752 - **Local numbers for Hampton Roads and Northern Virginia Forensic Labs are provided to clients upon signing a retainer agreement.**
+
+**You may also contact us through the form below**
+
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
