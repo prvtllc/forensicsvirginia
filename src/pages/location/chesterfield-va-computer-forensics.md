@@ -39,7 +39,7 @@ Chesterfield forensics information will soon be available on this page.  Please 
 
 These are some cases decided in Chesterfield where computer forensics played an important part. This list is being periodically updated.
 
-[MIDGETTE v. COMMONWEALTH of Virginia Court of Appeals, OCTOBER 30, 2018](https://www.cyberforensics.tech/traffic-stops-perjury-and-computer-forensics) - The case began as a traffic stop. The defendant was ultimately convicted of perjury for allegedly doctoring a video in support of his testimony disputing that a traffic light was not red when he was stopped. The lack of authenticity of the video was established through the testimony of the Commonwealth’s computer forensics expert.
+[HARRISON v. COMMONWEALTH of Virginia Court of Appeals, OCTOBER 13, 2015](https://www.cyberforensics.tech/defendant-convicted-after-skipping-computer-forensics) - Defense counsel filed a post-trial motion to set aside the verdict, alleging a violation of his due process rights. Apparently the prosecution agreed to nolle prosequi or dismiss the charges if the defendant received treatment. As a result, the defendant did not hire a computer forensics expert to retrieve recently deleted electronic communications from the complainant to the defendant. The defense argued that the digital evidence was essential to the defense.
 
 ## Contact a Chesterfield Computer Forensics Expert
 
