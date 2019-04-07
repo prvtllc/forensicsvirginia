@@ -39,7 +39,7 @@ Richmond forensics information will soon be available on this page.  Please chec
 
 These are some cases decided in Richmond where computer forensics played an important part. This list is being periodically updated.
 
-[MIDGETTE v. COMMONWEALTH of Virginia Court of Appeals, OCTOBER 30, 2018](https://www.cyberforensics.tech/traffic-stops-perjury-and-computer-forensics) - The case began as a traffic stop. The defendant was ultimately convicted of perjury for allegedly doctoring a video in support of his testimony disputing that a traffic light was not red when he was stopped. The lack of authenticity of the video was established through the testimony of the Commonwealth’s computer forensics expert.
+[KROMER v. COMMONWEALTH of Virginia, Court of Appeals, June 14, 2005](https://www.cyberforensics.tech/richmond-va-defendant-convicted-of-possession-of-child-pornography) - Richmond, VA police responded to a fire at a residence. A bomb technician, questioned appellant about certain explosive materials found. The police examined the contents of a computer located inside the residence for “explosive recipes.” Instead, the police computer forensics specialist found the use of certain key words connected to child pornography such as “lolita” and “underage.” He received more than one hundred hits. He looked for files or photographs, and located numerous images that were possibly child pornography. The defendant was convicted.
 
 ## Contact a Richmond Computer Forensics Expert
 
