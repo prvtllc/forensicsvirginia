@@ -1,14 +1,14 @@
 ---
 templateKey: blog-post
 title: Virginia Beach Computer Forensics
-date: 2019-03-14T15:04:10.000Z
+date: 2019-04-05T15:04:10.000Z
 description: Computer forensics expert in Virginia Beach assisting clients with civil and criminal cases.  Digital forensics for attorneys handling civil and criminal cases.
 
 tags:
   - Virginia Beach Computer Forensics
   - Cyber Forensics Expert
 ---
-![virginiabeach](/img/chemex.jpg)
+![virginiabeach](/img/vbcourthouse.jpg)
 
 Below, we’ll take a look into **Virginia Beach Computer Forensics** expert assistance for cases.  In Virginia Beach, the Courts often listen to expert witness testimony in the field of digital forensics.  In criminal cases, the Commowealth's attorney may present a cyber forensics expert who may be employed by the police or the Attorney General.  In turn, the defense may (or should) have its own expert to assist the defense attorney in presenting a defense and explaining to the Judge and/or jury some of the complexities involved in digital evidence to raise reasonable doubt.
 
