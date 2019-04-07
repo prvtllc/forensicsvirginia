@@ -38,7 +38,8 @@ Virginia Beach forensics information will soon be available on this page.  Pleas
 ## Virginia Beach Computer Forensics Cases
 
 These are some cases decided in Virginia Beach where computer forensics played an important part. This list is being periodically updated.
-[MIDGETTE v. COMMONWEALTH of Virginia Court of Appeals, OCTOBER 30, 2018](https://www.cyberforensics.tech/traffic-stops-perjury-and-computer-forensics) - _The case began as a traffic stop. The defendant was ultimately convicted of perjury for allegedly doctoring a video in support of his testimony disputing that a traffic light was not red when he was stopped. The lack of authenticity of the video was established through the testimony of the Commonwealth’s computer forensics expert.
+
+[MIDGETTE v. COMMONWEALTH of Virginia Court of Appeals, OCTOBER 30, 2018](https://www.cyberforensics.tech/traffic-stops-perjury-and-computer-forensics) - The case began as a traffic stop. The defendant was ultimately convicted of perjury for allegedly doctoring a video in support of his testimony disputing that a traffic light was not red when he was stopped. The lack of authenticity of the video was established through the testimony of the Commonwealth’s computer forensics expert.
 
 ## Contact a Virginia Beach Computer Forensics Expert
 
