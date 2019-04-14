@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Norfolk Computer Forensics
-date: 2019-04-05T15:04:10.000Z
+date: 2019-04-14T15:04:10.000Z
 description: Computer forensics expert in Norfolk assisting clients with civil and criminal cases.  Digital forensics for attorneys handling civil and criminal cases.
 
 tags:
@@ -38,6 +38,8 @@ Norfolk forensics information will soon be available on this page.  Please check
 ## Norfolk Computer Forensics Cases
 
 These are some cases decided in Norfolk where computer forensics played an important part. This list is being periodically updated.
+
+[United States v. Springstead, 4th Cir., Norfolk, 2013](https://www.cyberforensics.tech/norfolk-va-defendant-convicted-of-possession-of-contraband) - On Appeal, the Defendant argued that the district court erred in admitting the Special Agent’s testimony regarding his forensic examination of a computer. Specifically, the Defendant claimed that the law enforcement computer forensics examiner lacked the requisite knowledge and training to explain how the Forensic Tool Kit software used in this case was designed and functioned and that the Government failed to offer testimony regarding the reliability, peer review, error rate, and standards of the industry for the software as required by Fed. R. Evid. 702.  [Domingo Rivera, a Virginia digital forensics expert and attorney](http://www.forensicsvirginia.com/norfolk-va-defendant-challenges-conviction-for-possession-of-child-pornography.html) provides some discussion regarding the issues raised by this case.
 
 [MIDGETTE v. COMMONWEALTH of Virginia, Virginia Court of Appeals, OCTOBER 30, 2018](https://www.cyberforensics.tech/traffic-stops-perjury-and-computer-forensics) - The case began as a traffic stop in Virginia Beach but was decided by the Virginia Court of Appeals in Norfolk . The defendant was ultimately convicted of perjury for allegedly doctoring a video in support of his testimony disputing that a traffic light was not red when he was stopped. The lack of authenticity of the video was established through the testimony of the Commonwealth’s computer forensics expert.
 
