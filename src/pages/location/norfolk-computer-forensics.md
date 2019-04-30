@@ -43,6 +43,8 @@ These are some cases decided in Norfolk where computer forensics played an impor
 
 [MIDGETTE v. COMMONWEALTH of Virginia, Virginia Court of Appeals, OCTOBER 30, 2018](https://www.cyberforensics.tech/traffic-stops-perjury-and-computer-forensics) - The case began as a traffic stop in Virginia Beach but was decided by the Virginia Court of Appeals in Norfolk . The defendant was ultimately convicted of perjury for allegedly doctoring a video in support of his testimony disputing that a traffic light was not red when he was stopped. The lack of authenticity of the video was established through the testimony of the Commonwealth’s computer forensics expert.
 
+[Scott v. United States, Eastern District of Virginia, Norfolk Division, 2018](https://www.cyberforensics.tech/android-device-forensics-to-identify-email-owner-in-virginia) - The defendant did not retain his own computer forensics expert despite the government presenting several items of evidence through it's own digital evidence examiner. Part of the alleged conspiracy ocurred in different areas such as Suffolk, Portsmouth, and Chesapeake VA.  The case was heard at the United States District Court for the Eastern District of Virginia, in Norfolk.
+
 ## Contact a Norfolk Computer Forensics Expert
 
 AVM Technology has qualified as expert witness in the field of digital forensics in the Virginia Circuit Courts.  As such, we may assist you in civil or criminal cases litigated in the Norfolk Courts.  [Contact us to discuss how we may assist you as a Norfolk digital foreniscs expert.](/contact-us).

@@ -41,6 +41,8 @@ These are some cases decided in Virginia Beach where computer forensics played a
 
 [MIDGETTE v. COMMONWEALTH of Virginia Court of Appeals, OCTOBER 30, 2018](https://www.cyberforensics.tech/traffic-stops-perjury-and-computer-forensics) - The case began as a traffic stop. The defendant was ultimately convicted of perjury for allegedly doctoring a video in support of his testimony disputing that a traffic light was not red when he was stopped. The lack of authenticity of the video was established through the testimony of the Commonwealth’s computer forensics expert.
 
+[Scott v. United States, Eastern District of Virginia, Norfolk Division, 2018](https://www.cyberforensics.tech/android-device-forensics-to-identify-email-owner-in-virginia) - The defendant did not retain his own computer forensics expert despite the government presenting several items of evidence through it's own digital evidence examiner. Part of the alleged conspiracy ocurred when a Ms. Banks testified that when she was living in Virginia Beach, an unknown woman contacted her via Facebook and asked her if she wanted to make some money by hosting hotel parties.  [Domingo Rivera, a Virginia digital forensics expert and attorney](https://www.forensicsvirginia.com/scott-v-united-states-forensics-to-identify-defendant.html) provides some discussion regarding the issues raised by this case.
+
 ## Contact a Virginia Beach Computer Forensics Expert
 
 AVM Technology has qualified as expert witness in the field of digital forensics in the Virginia Circuit Courts.  As such, we may assist you in civil or criminal cases litigated in the Virginia Beach Courts.  [Contact us to discuss how we may assist you as a Virginia Beach digital foreniscs expert.](/contact-us).
