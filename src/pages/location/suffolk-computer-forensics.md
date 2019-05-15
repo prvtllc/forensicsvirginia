@@ -13,6 +13,8 @@ tags:
 
 Below, we’ll take a look into **Suffolk Computer Forensics** expert assistance for cases.  In Suffolk, the Courts often listen to expert witness testimony in the field of digital forensics.  In criminal cases, the Commowealth's attorney may present a cyber forensics expert who may be employed by the police or the Attorney General.  In turn, the defense may (or should) have its own expert to assist the defense attorney in presenting a defense and explaining to the Judge and/or jury some of the complexities involved in digital evidence to raise reasonable doubt.
 
+**To Consult with a Suffolk, VA Computer Forensics Expert, Call AVM Technology at (757) 716-7135**
+
 **Some examples of criminal cases normally requiring the assistance of a Suffolk digital forensics expert include:**
 * Computer fraud under Va. Code Sec. 18.2-152.3 charges in Suffolk.
 * Computer trespass under Va. Code Sec. 18.2-152.4 or violations of the Federal Computer Fraud and Abuse Act, 18 USC 1030, which may be charged in Suffolk or at the United States District Court of the Eastern District of Virginia
