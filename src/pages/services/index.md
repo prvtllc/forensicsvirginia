@@ -30,4 +30,17 @@ Our Virginia computer forensics experts are familiar with all aspects of the civ
 
 Expert computer forensics services throughout Virginia, including: Henrico County VA, Richmond City, Chesterfield County VA, Hanover County VA, Petersburg County VA, Fairfax County, Prince William County, Hopewell, Petersburg, Dinwiddie, Quantico, Virginia Beach VA, Norfolk, Chesapeake, Fredericksburg, Stafford, Spotsylvania VA, Hampton Roads, Newport News, Hampton, Williamsburg, Amelia, Powhatan, Goochland, Louisa, Manassas VA, Woodbridge, Charles City, James City, Gloucester, Tidewater, Portsmouth, Shenandoah, Prince George, Sussex, New Kent, West End of Richmond, Glen Allen, Federal Court for the Eastern District of Virginia (Richmond, Alexandria, Norfolk, and Newport News Divisions).Contact us at: In the Hampton Roads, Norfolk, Virginia Beach area at 20th Street, Virginia Beach VA 23451, in the Richmond / Henrico area at 11357 Nuckols Rd  Ste. 1034, Glen Allen, VA 23059 and throughout Virginia call us at: (804) 332-5752 or (757) 716-7135
 
-Contact us at: In the Hampton Roads, Norfolk, Virginia Beach area at 20th Street, Virginia Beach VA 23451, in the Richmond / Henrico area at 11357 Nuckols Rd  Ste. 1034, Glen Allen, VA 23059 and throughout Virginia call us at: (804) 332-5752 or (757) 716-7135
+Contact us at: 
+
+In the Hampton Roads, Norfolk, Virginia Beach area at 20th Street, Virginia Beach VA 23451
+Tel. (757) 716-7135  
+
+ In the Richmond / Henrico area at 11357 Nuckols Rd  Ste. 1034, Glen Allen, VA 23059 
+ Tel. (804) 332-5752   
+ 
+In the Northern Virginia Region 
+AVM Technology, LLC
+2201 Cooperative Way 
+Suite 600 
+Herndon, VA 20171
+(571) 732-2803
